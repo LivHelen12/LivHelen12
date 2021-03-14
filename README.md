@@ -1,4 +1,4 @@
-### Him I'm Livia 😄
+### Hi, I'm Livia 😄
 
 <!--
 **LivHelen12/LivHelen12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
