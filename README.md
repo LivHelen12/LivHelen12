@@ -12,8 +12,6 @@
 
 ### If you wanna have a chat about technologies and this kind of stuff, just send me a dm 😄
 
-<br/>
-
 ##  [Linkedin](https://www.linkedin.com/in/liviahelendasilva/) | [Instagram](https://www.instagram.com/diventech/)
 
 
