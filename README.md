@@ -14,9 +14,6 @@
 
 ##  [Linkedin](https://www.linkedin.com/in/liviahelendasilva/) | [Instagram](https://www.instagram.com/diventech/)
 
-
-<br/>
-
 # My most used Languages 
 
 <div align="center">
