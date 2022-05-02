@@ -4,13 +4,11 @@
 
 # About me
 ```   
-- I'm a software developer from São Paulo, Brasil💻 
+- I'm a front-end developer from São Paulo, Brasil💻 
 - Co-founder at DivenTech 🚀      
 ```
 
 # My social media accounts 📱
-
-### If you wanna have a chat about technologies and this kind of stuff, just send me a dm 😄
 
 ##  [Linkedin](https://www.linkedin.com/in/liviahelendasilva/) | [Instagram](https://www.instagram.com/diventech/)
 
