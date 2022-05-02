@@ -10,7 +10,7 @@
 
 # My social media accounts 📱
 
-##  [Linkedin](https://www.linkedin.com/in/liviahelendasilva/) | [Instagram](https://www.instagram.com/diventech/)
+##  [Linkedin](https://www.linkedin.com/in/liviahelendasilva/) 
 
 # My most used Languages 
 
