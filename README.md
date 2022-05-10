@@ -1,34 +1,31 @@
-![img](https://github.com/LivHelen12/LivHelen12/blob/master/banner.png?raw=true)
+## About me
 
-<p></p>
-
-# About me
 ```   
-- I'm a front-end developer from São Paulo, Brasil💻 
-- Co-founder at DivenTech 🚀      
+Hey there! 
+
+I'm Livia Helen, 19 years old, currently living in Brazil.
+
+I'm graduated as a computer technician by "ITB - Instituto Técnico de Barueri" in 2019. At the moment, i'm a graduate student 
+in System analysis and development at São Paulo State University (Universidade Presbiteriana Mackenzie) scheduled for completion 
+in July 2023.
+
 ```
 
-# My social media accounts 📱
+## Technologies
 
-##  [Linkedin](https://www.linkedin.com/in/liviahelendasilva/) 
-
-# My most used Languages 
-
-<br/>
-
-<div align="center">
+- Front-end Development with HTML, CSS, Javascript, React and NextJS.
+- User Interface Design.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LivHelen12&layout=compact)](https://github.com/LivHelen12/github-readme-stats)
 
-</div>
 
-<br/>
-<br/>
 
-# My gitHub Stats 
+## Content Creator at
 
-<div align="center">
+- [Instagram](https://instagram.com/livia.code?igshid=YmMyMTA2M2Y=)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LivHelen12&count_private=true&show_icons=true&theme=cobalt)](https://github.com/LivHelen12/github-readme-stats)
 
-</div>
+## Contact Me
+
+- [Linkedin](https://www.linkedin.com/in/liviahelendasilva/) 
+- [E-mail](liviahelen025@gmail.com)
